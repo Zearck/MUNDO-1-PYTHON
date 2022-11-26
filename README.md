@@ -6,3 +6,5 @@ what I am learning in this course.
 
 This course contains in total 11 classes and 35 
 exercises, and this is only in the first "world".
+
+https://www.cursoemvideo.com/curso/python-3-mundo-1/
